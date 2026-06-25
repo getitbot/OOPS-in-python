@@ -1,7 +1,8 @@
 # creating a class
 
 class Student:
-    name = "honey"
+    name = "Zoya khan"
+
 # Creating an object, objects are bound with the classes.
 
 S1 = Student
@@ -18,6 +19,9 @@ print(type(Fruits))
 print(Fruits)
 
 # Fruits is an object of a class.
+   
+
+# git add something id wrong
 
 
 

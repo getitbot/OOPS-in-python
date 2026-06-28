@@ -22,3 +22,17 @@ student3 = Student()
 print(Student)
 student3.watch(30)
 
+#  Creating a class for a book store. 
+
+class bookstore():
+
+    print('''This is the class where we manage info about our book store''')
+    def __init__(self, bookname, quentity, order):
+        self.bookname = bookname
+        self.quentity = quentity
+        self.order = order
+
+    
+bookstore1 = bookstore("Math", 345, "There are three orders")
+
+print(bookstore1.__dict__)

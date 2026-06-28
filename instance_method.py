@@ -10,11 +10,6 @@ class Student:
 Student1 = Student()
 print(Student1)
 Student1.study()
-
-
-
-
-
 # try one more time for
 
 

@@ -36,3 +36,5 @@ class bookstore():
 bookstore1 = bookstore("Math", 345, "There are three orders")
 
 print(bookstore1.__dict__)
+
+

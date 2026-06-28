@@ -22,4 +22,3 @@ print(House.Gate)
 
 # this is how we use the class variable and the object variable 
 # We can use the class variable's copy in objects.
-

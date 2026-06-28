@@ -4,12 +4,10 @@
 
 class College:
 
-    @classmethod()
+    classmethod
     def greet(cls):
         print("welcome sir")
 
-college1 = College
-print(college1.greet)
+college1 = College()
 college1.greet()
-
-        
+print(College)

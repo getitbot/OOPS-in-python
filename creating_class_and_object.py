@@ -18,10 +18,5 @@ Fruits = ["Mango" , "Banana", "Apple"]
 print(type(Fruits))
 print(Fruits)
 
-# Fruits is an object of a class.
-   
-
-# git add something id wrong
-
 
 

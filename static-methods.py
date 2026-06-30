@@ -31,4 +31,3 @@ student1.test()
         
 # Soo this is how we use the staticmethods in the python programming language.
 # I hope you all have enjoyed this session let's see in the next one.
-

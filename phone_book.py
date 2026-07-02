@@ -40,7 +40,7 @@ class phonebook:
 n_contacts = int(input("Enter the number how much number you want to add.?  "))
 for i in range(n_contacts):
     names = input("Enter the names ")
-    phone_number = input(f"Enter the phone numbers ")
+    phone_number = input(f"Enter the phone numbers b")
     if phonebook.validate_phone_number(phone_number):
         phonebook(names, phone_number)
     else:
@@ -58,4 +58,12 @@ phonebook.show_all_contact()
 
 # c1.search_contact("Honey singh munariya")
 # c2.search_contact("kanishka singh munariya")
+
+
+
+
+
+
+
+
 
